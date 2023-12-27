@@ -1,4 +1,4 @@
-From javaserver:latest
+From javascript
 
 WORKDIR /app
 COPY . .
