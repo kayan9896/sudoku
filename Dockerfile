@@ -1,4 +1,4 @@
-From javascript
+From node:latest
 
 WORKDIR /app
 COPY . .
