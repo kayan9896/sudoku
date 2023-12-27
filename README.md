@@ -1,6 +1,7 @@
 Sudoku game
 Web version: https://wb12.1bfpvl77xip0.us-south.codeengine.appdomain.cloud/
-Mobile demp app: https://expo.dev/accounts/kayan9896/projects/sudoku/builds/3a343abe-188c-4dd3-8c16-6cbcd42755b2
+
+Mobile demo apk: https://expo.dev/accounts/kayan9896/projects/sudoku/builds/3a343abe-188c-4dd3-8c16-6cbcd42755b2
 
 
 
